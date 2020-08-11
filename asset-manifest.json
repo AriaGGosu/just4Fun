@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/just4Fun/static/css/main.5f361e03.chunk.css",
+    "main.js": "/just4Fun/static/js/main.4e1c73bb.chunk.js",
+    "main.js.map": "/just4Fun/static/js/main.4e1c73bb.chunk.js.map",
+    "runtime-main.js": "/just4Fun/static/js/runtime-main.78213374.js",
+    "runtime-main.js.map": "/just4Fun/static/js/runtime-main.78213374.js.map",
+    "static/js/2.7d72e063.chunk.js": "/just4Fun/static/js/2.7d72e063.chunk.js",
+    "static/js/2.7d72e063.chunk.js.map": "/just4Fun/static/js/2.7d72e063.chunk.js.map",
+    "index.html": "/just4Fun/index.html",
+    "precache-manifest.32a1b7521f86cb702ee3e188859065ee.js": "/just4Fun/precache-manifest.32a1b7521f86cb702ee3e188859065ee.js",
+    "service-worker.js": "/just4Fun/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/just4Fun/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.7d72e063.chunk.js.LICENSE.txt": "/just4Fun/static/js/2.7d72e063.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/just4Fun/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.78213374.js",
+    "static/js/2.7d72e063.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.4e1c73bb.chunk.js"
+  ]
+}
